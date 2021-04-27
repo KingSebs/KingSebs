@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KingSebs
+- 👀 I’m interested in Python and Node.js
+- 🌱 I’m currently learning Node.js
